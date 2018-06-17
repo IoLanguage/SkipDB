@@ -1,0 +1,3 @@
+SkipDB := Object clone do(
+
+)

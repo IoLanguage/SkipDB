@@ -1,0 +1,15 @@
+{
+  "name":         "SkipDB",
+  "version":      "0.1",
+  "description":  "SkipDB is a skip-list based key-value database.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["SkipDB"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
