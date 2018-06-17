@@ -1,3 +1,1 @@
-SkipDB := Object clone do(
-
-)
+// SkipDB
